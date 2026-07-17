@@ -23,7 +23,7 @@
 
 ## 🧬 About Me
 
-I'm an AI/CS undergraduate focused on deep learning and computer vision — building systems that don't just predict, but explain themselves. Currently interning at **VisiBots**, working on real-world CV pipelines, and actively looking for AI/ML & Computer Vision internship opportunities.
+I'm an AI/CS undergraduate focused on deep learning and computer vision — building systems that don't just predict, but explain themselves. Currently interning at **VisibiltyBots**, working on real-world CV pipelines, and actively looking for AI/ML & Computer Vision internship opportunities.
 
 | | |
 |---|---|
